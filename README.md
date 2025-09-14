@@ -21,7 +21,7 @@
 ## 🚀 About Me
 - 🎓 Final-year **Computer Science & Engineering** student at *Prof. Ram Meghe College of Engineering and Management*  
 - 💡 Interested in **Data Science, Machine Learning, AI & Full-Stack Development**   
-- 🌱 Currently learning Advanced ML | NLP**  
+- 🌱 Currently learning **Advanced ML | NLP**
 - 🎯 Goal: To build impactful AI/ML projects and share knowledge with others  
 
 ---
@@ -52,7 +52,7 @@
 🔄 **Following**: 3  
 
 <p align="center">
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riya-Web21&show_icons=true&theme=radical)
+   <img src="https://github-readme-stats.vercel.app/api?username=Riya-Web21&show_icons=true&theme=radical" height="200px">
 </p>
 
 <p align="center">
