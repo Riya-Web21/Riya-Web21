@@ -2,9 +2,12 @@
 <h1 align="center">
   Hi, I'm Riya Bhattad  
 </h1>
-<h3 align="center">
-  💻 CS Undergrad @PRMCEAM | 📊 Data Science Enthusiast | 🚀Learning to create intelligent systems | Driven to Advance AI Innovation  
-</h3>
+<h4 align="center">
+  💻 CS Undergrad @PRMCEAM ||  Data Science Enthusiast   
+</h4>
+<h4 align="center">
+  🚀 Learning to create intelligent systems || Driven to Advance AI Innovation  
+</h4>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -17,8 +20,7 @@
 
 ## 🚀 About Me
 - 🎓 Final-year **Computer Science & Engineering** student at *Prof. Ram Meghe College of Engineering and Management*  
-- 💡 Interested in **Data Science, Machine Learning, AI & Full-Stack Development**  
-- ✍️ Writing tech blogs on [Medium](https://medium.com/@CodewithSugran)  
+- 💡 Interested in **Data Science, Machine Learning, AI & Full-Stack Development**   
 - 🌱 Currently learning Advanced ML | NLP**  
 - 🎯 Goal: To build impactful AI/ML projects and share knowledge with others  
 
@@ -49,8 +51,9 @@
 👥 **Followers**: 3  
 🔄 **Following**: 3  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riya-Web21&show_icons=true&theme=radical)
-
+<p align="center">
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riya-Web21&show_icons=true&theme=radical)
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-Web21&layout=compact&theme=tokyonight" height="180px"/>
@@ -58,7 +61,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Experience and Achievements
 - 💼 **Java Full-Stack Virtual Internship** (Eduskills & AICTE)  
 - 📊 **Data Science Master Virtual Internship** (EduSkills, AICTE & Altair)  
 - 📜 Certified in **Full Stack Web Development (Udemy)** & **Computer Networks (NPTEL)**  
